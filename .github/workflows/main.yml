@@ -1,6 +1,5 @@
 name: A workflow for simple hello world
 on: push
-
 jobs:
   build: 
     name: Hello world action
